@@ -7,7 +7,7 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "IMDb Clone",
+  title: "CinemaDb",
   description: "Movie database clone",
 };
 
